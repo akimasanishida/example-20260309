@@ -5,3 +5,4 @@ print("My name is Kanako.")
 
 print("1+1")
 
+print(1 + 1)
